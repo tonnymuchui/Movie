@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Movie</string>
+    <string name="breaking_bad">Breaking bad</string>
+    <string name="search_icon">search_icon</string>
+    <string name="movie_icon">movie_icon</string>
+    <string name="recent">Recent</string>
+    <string name="tonny_movie">Tonny Movie</string>
+    <string name="results_not_found">results not found</string>
+    <string name="results_loaded">Results could not be loaded</string>
+    <string name="retry">Retry</string>
 </resources>
